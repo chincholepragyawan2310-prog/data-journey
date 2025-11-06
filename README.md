@@ -1,2 +1,5 @@
-# data-journey
-My roadmap, notes, mini-projects for Data Analytics learning
+# My Data Journey 🚀
+
+- Starting: November 2025
+- Goal: Become a Data Analyst by June 2026
+- Weekly Progress Logs Below 👇
